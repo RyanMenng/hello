@@ -1,4 +1,4 @@
 #/usr/bin
-#paython3
+#python3
 
 print 'hello github'
